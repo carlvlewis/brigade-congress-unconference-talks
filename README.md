@@ -39,13 +39,13 @@
 + Emotional design 
 + Ecosystem of integrations
 + Channels allow new ideas to spring forth organically
-+ Sociality; builds relationships across geographic spaces in addition to getting work done
++ Sociality; builds relationships across geographic spaces in addition to getting work done.
 
-> Question for consideration: Do any of the above pros merit a `competitive advantage` for Slack that can't be built by others?
-
+> Question for consideration: Do any of the above pros merit a `competitive advantage` for Slack that can't be built by others? (definition: 'a condition or circumstance that puts a company in a favorable or superior business position.')
+ 
 ### Needs for alternatives to have:
 + Real-time chat.
-+ Emojis. More emojis. Did I mention emojis?
++ Emojis. :sunglasses: More emojis. :joy: Did I mention emojis? :fire:
 + Collaborative, real-time document editing
 + File-sharing
 + Wiki-type 
