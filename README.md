@@ -50,16 +50,19 @@ Question for consideration: Do any of the above pros merit a `competitive advant
 + Open by default.
 
 ### Current alternatives:
++ [matrix](https://matrix.org/) - Matrix is an open standard for interoperable, decentralised, real-time communication over IP. There are an array of clients and servers available, think modern IRC
++ [Gitter](https://gitter.im) - Real-time chat oriented around github orgs and projects. Acquired and open-sourced by GitLab.
 + [Rocket.Chat](http://rocket.chat) - 
 + [Mattermost](http://mattermost.com) - 
++ [GitHub](https://github.com) - Maybe we should just GitHub more and utilize all the tools built around GitHub?
 + [Basecamp](http://basecamp.com) - Oldie but a goodie. Considered in project management circles as baseline, simplest yet most functional project tool.
 + [Notion.so](http://notion.so) ($$$, but a perfectly legal hack exists that's in line with their ToS)
 + [Quip](http://getquip.com) - Fantastic for collaborative documents; great chat; rather expensive; no current ability to make group folders publicly editable/viewable `by default`.
 + [Discourse](http://discourse.org) - On its face, an ideal, extendable solution that *should* work but never has caught on; people have this odd and illogical ideological opposition to 'forums' -- likely thanks to the early days of the Web.
-+ [Discourse](http://discourse.org) - On its face, an ideal, extendable solution that *should* work but never has caught on; people have this odd and illogical ideological opposition to 'forums' -- likely thanks to the early days of the Web.
 + [Dropbox Paper](http://paper.dropbox.com) - Very nice UI that pulls users in; individual papers can be made publicly available for editing and viewing; collections cannot.
 + [GSuite](http://suite.google.com) - Documents too print-centric; vast array of options distracts from core experience of authoring text; Google Docs, Slides, Sheets, Hangouts all exist in separate Google silos.
-+ [BrigadeHub](https://brigadehub.github.io) - Project of c4sf. 
++ [Laddr](https://github.com/CodeForPhilly/laddr) - Original CMS and project facilitator for brigades. Integrates with Slack and Discourse.
++ [BrigadeHub](https://brigadehub.github.io) - Project of c4sf. Development discontinued.
 
 ### Issues
 + Switching costs (not financial or data migration costs but *habit* costs)
