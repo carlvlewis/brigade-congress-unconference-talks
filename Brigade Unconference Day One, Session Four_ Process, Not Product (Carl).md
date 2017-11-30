@@ -1,4 +1,4 @@
-#Process, Not Product: Civic tech as a (****_nonpartisan_****) social/political movement
+# Process, Not Product: Civic tech as a (****_nonpartisan_****) social/political movement
 
 Est. Attendance: ~15 ppl
 
